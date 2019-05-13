@@ -1,0 +1,2 @@
+# mongo
+用于构建基于alpine基础镜像的mongoDB容器的Dockerfile
